@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/assignment-openSource/static/css/main.e671e441.chunk.css",
+    "main.js": "/assignment-openSource/static/js/main.9dcf737f.chunk.js",
+    "main.js.map": "/assignment-openSource/static/js/main.9dcf737f.chunk.js.map",
+    "runtime-main.js": "/assignment-openSource/static/js/runtime-main.55f3dda1.js",
+    "runtime-main.js.map": "/assignment-openSource/static/js/runtime-main.55f3dda1.js.map",
+    "static/js/2.85e0327c.chunk.js": "/assignment-openSource/static/js/2.85e0327c.chunk.js",
+    "static/js/2.85e0327c.chunk.js.map": "/assignment-openSource/static/js/2.85e0327c.chunk.js.map",
+    "static/js/3.88d73926.chunk.js": "/assignment-openSource/static/js/3.88d73926.chunk.js",
+    "static/js/3.88d73926.chunk.js.map": "/assignment-openSource/static/js/3.88d73926.chunk.js.map",
+    "index.html": "/assignment-openSource/index.html",
+    "static/css/main.e671e441.chunk.css.map": "/assignment-openSource/static/css/main.e671e441.chunk.css.map",
+    "static/js/2.85e0327c.chunk.js.LICENSE.txt": "/assignment-openSource/static/js/2.85e0327c.chunk.js.LICENSE.txt",
+    "static/media/선풍기오프.99593a2e.png": "/assignment-openSource/static/media/선풍기오프.99593a2e.png",
+    "static/media/선풍기온.9fafd79f.png": "/assignment-openSource/static/media/선풍기온.9fafd79f.png",
+    "static/media/온도.04220f7a.png": "/assignment-openSource/static/media/온도.04220f7a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55f3dda1.js",
+    "static/js/2.85e0327c.chunk.js",
+    "static/css/main.e671e441.chunk.css",
+    "static/js/main.9dcf737f.chunk.js"
+  ]
+}
