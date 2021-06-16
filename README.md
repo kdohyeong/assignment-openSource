@@ -1,4 +1,4 @@
-# 간단히 만들어본 전력구 제어 시스템 UI
+# REACT SPA 로 만든 HOME CONTROLER
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
