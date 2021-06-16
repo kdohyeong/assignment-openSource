@@ -1,7 +1,7 @@
 # REACT SPA 로 만든 HOME CONTROLER
 
 오픈소스 기초 프로젝트 홈페이지 구축과제
-https://kdohyeong.github.io/assignment-openSource/
+호스팅주소 : https://kdohyeong.github.io/assignment-openSource/
 
 
 ## Available Scripts
