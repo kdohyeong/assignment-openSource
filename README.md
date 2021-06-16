@@ -1,6 +1,6 @@
 # REACT SPA 로 만든 HOME CONTROLER
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+오픈소스 기초 프로젝트 홈페이지 구축과제
 
 ## Available Scripts
 
